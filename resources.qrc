@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Logo.png</file>
+        <file>NetRevealer.ico</file>
+        <file>Notebook.png</file>
+        <file>Computer.png</file>
+        <file>Monitor.png</file>
+        <file>Phone.png</file>
+        <file>Rack.png</file>
+        <file>Router.png</file>
+        <file>Tablet.png</file>
+        <file>wRouter.png</file>
+    </qresource>
+</RCC>
