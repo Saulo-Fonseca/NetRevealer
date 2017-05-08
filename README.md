@@ -1,6 +1,4 @@
 # NetRevealer
-Graphical tool to analyze the traffic in your network
-
 NetRevealer is a multi-platform graphical tool to analyze 
 the traffic in your network. It reads the interface cards in your computer and 
 draw an icon for each host / device sending or receiving packets. The map shows 
@@ -12,7 +10,6 @@ Saulo Fonseca's bachelor's degree at Portugal Open University and was written i
 using the Qt-Framework and Libpcap. It's available under the GPL3 license (open source).
 
 # What it can do:
-
 Collects and shows information about every host such as:
 - Hostname
 - IPv4 / IPv6 addresses
@@ -26,4 +23,4 @@ Permits to select a limit to delete inactive hosts after a while
 Permits to select which network cards should be read
 Show the broadcast packets as a circle around the hosts
 
-<iframe src="https://player.vimeo.com/video/100517892" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+Video at https://player.vimeo.com/video/100517892
