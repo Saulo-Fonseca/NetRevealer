@@ -28,4 +28,3 @@ Video at https://player.vimeo.com/video/100517892
 Created with Qt 5.2.1. You need to install Libpcap to compile it.
 
 Downloads at http://www.astrotown.de/netrevealer
-
