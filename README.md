@@ -11,10 +11,15 @@ using the Qt-Framework and Libpcap. It's available under the GPL3 license (open 
 
 # What it can do:
 Allows to move, pan, zoom and delete the map / icons.
+
 Shows a log for all packets read at window's bottom.
+
 Permits to select a limit to delete inactive hosts after a while.
+
 Permits to select which network cards should be read.
+
 Show the broadcast packets as a circle around the hosts.
+
 Collects and shows information about every host such as:
 - Hostname.
 - IPv4 / IPv6 addresses.
@@ -23,8 +28,8 @@ Collects and shows information about every host such as:
 - Number of packets sent or received.
 - Ports used by other hosts.
 
-Video at https://player.vimeo.com/video/100517892
-
 Created with Qt 5.2.1. You need to install Libpcap to compile it.
+
+Video at https://player.vimeo.com/video/100517892
 
 Downloads at http://www.astrotown.de/netrevealer
