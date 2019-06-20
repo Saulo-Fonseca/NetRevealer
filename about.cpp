@@ -21,10 +21,10 @@ About::~About()
 
 void About::on_commandLinkButton_clicked()
 {
-	QDesktopServices::openUrl(QUrl("mailto:email@saulofonseca.de"));
+	QDesktopServices::openUrl(QUrl("mailto:fonseca@astrotown.de"));
 }
 
 void About::on_commandLinkButton_2_clicked()
 {
-	QDesktopServices::openUrl(QUrl("http://www.NetRevealer.com"));
+	QDesktopServices::openUrl(QUrl("http://www.AstroTown.de/netrevealer"));
 }
